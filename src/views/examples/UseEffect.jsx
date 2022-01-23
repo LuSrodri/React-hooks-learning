@@ -52,14 +52,14 @@ export default (props) => {
                 subtitle="Allows execute collateral effects in functional components."
             />
 
-            <SectionTitle title="#1"></SectionTitle>
+            <SectionTitle title="#01"></SectionTitle>
             <div className="center">
                 <span className="text">Factorial:</span>
                 <span className="text red">{factorial === -1 ? 'Error' : factorial}</span>
                 <input type="number" className="input" value={number} onChange={e => setNumber(e.target.value)} />
             </div>
 
-            <SectionTitle title="#2 Challenge"></SectionTitle>
+            <SectionTitle title="#02 Challenge"></SectionTitle>
             <div className='center'>
 
             </div>
