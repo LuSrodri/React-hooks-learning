@@ -11,11 +11,11 @@ This project is about <strong>React hooks</strong>, were create many examples fo
 
 <h2>Other projects about React:</h2>
 
-<a src="https://github.com/LuSrodri/Fundamentos-React">Fundamentus React</a>
+Fundamentus React - https://github.com/LuSrodri/Fundamentos-React
 
-<a src="https://github.com/LuSrodri/react-router-learning">React Router</a>
+React Router - https://github.com/LuSrodri/react-router-learning
 
-<a src="https://github.com/LuSrodri/React-hooks-learning">React Hooks</a>
+React Hooks - https://github.com/LuSrodri/React-hooks-learning
 
 ## Available Scripts
 
